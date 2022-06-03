@@ -1,6 +1,7 @@
 body
 {
-    color: rgb(41, 35, 41);
+    background: rgb(255, 255, 255);
+    color: rgb(219, 181, 219);
     text-align: center;
     font-family: Courier;
     font-size: 16px;
@@ -8,12 +9,18 @@ body
 
 #header
 {
-    background: black;
+    background: rgb(67, 18, 112);
     color: rgb(255, 255, 255);
     font-weight: bold;
-    box-shadow: 2px 8px 40px 0px rgb(208, 161, 236);
+    box-shadow: 2px 8px 40px 0px rgb(63, 4, 97);
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
+    font-size: 30px;
+}
+
+#header #logo
+{
+    width: 20%;
 }
 
 #header #tagline
@@ -39,5 +46,6 @@ body
 
 #post
 {
+    background: rgb(38, 2, 104);
     padding: 1em;
 }
