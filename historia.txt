@@ -14,8 +14,15 @@ Y su madre que los maltrataba a ellos desquitandose.
 
 Arcangel es el cuidador de Miss Kramble, un señor misterioso que nunca se separa de ella.
 
+Experimento 1
+
+Experimento 2
+
 Master 1
 
 Master 2
+<<<<<<< HEAD
 
 Master 3
+=======
+>>>>>>> da48cb2 (2do intento rebase)
