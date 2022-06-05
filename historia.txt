@@ -18,11 +18,17 @@ Experimento 1
 
 Experimento 2
 
+Experimento 3
+
 Master 1
 
+<<<<<<< HEAD
 Master 2
 <<<<<<< HEAD
 
 Master 3
 =======
 >>>>>>> da48cb2 (2do intento rebase)
+=======
+Master 2
+>>>>>>> ca3c997 (Exp 3)
